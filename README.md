@@ -1,0 +1,1 @@
+Biot and Gassmann are two classic theories, which allow to calculate the wave velocities of the fluid saturated porous media.
